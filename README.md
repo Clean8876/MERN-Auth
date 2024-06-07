@@ -18,7 +18,7 @@ Getting Started
 # Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/mern-auth-redux-toolkit.git
+git clone (https://github.com/Clean8876/MERN-Auth.git)
 Use code with caution.
 content_copy
 Install Dependencies:
